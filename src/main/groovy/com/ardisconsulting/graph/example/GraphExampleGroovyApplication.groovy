@@ -1,8 +1,10 @@
 package com.ardisconsulting.graph.example
 
+import groovy.transform.CompileStatic
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 
+@CompileStatic
 @SpringBootApplication
 class GraphExampleGroovyApplication {
 
