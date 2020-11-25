@@ -1,0 +1,2 @@
+Started from: https://start.spring.io/#!type=maven-project&language=groovy&platformVersion=2.3.6.RELEASE&packaging=jar&jvmVersion=11&groupId=com.ardisconsulting&artifactId=graph-example-groovy&name=graph-example-groovy&description=Graph%20example%20project%20using%20Spring%20Boot%20with%20Groovy&packageName=com.ardisconsulting.graph.example&dependencies=devtools,camel,webflux,data-neo4j,oauth2-client,groovy-templates,actuator,testcontainers,restdocs
+
