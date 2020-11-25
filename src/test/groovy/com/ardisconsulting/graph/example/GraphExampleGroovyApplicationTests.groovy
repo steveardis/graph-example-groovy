@@ -11,5 +11,4 @@ class GraphExampleGroovyApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
